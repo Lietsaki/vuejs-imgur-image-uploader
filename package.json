@@ -11,8 +11,10 @@
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "highlight.js": "^10.5.0",
-    "lodash": "^4.17.20",
+    "is-svg": "^4.3.1",
+    "lodash": "^4.17.21",
     "qs": "^6.9.4",
+    "url-parse": "^1.5.1",
     "vue": "^2.6.11",
     "vue-router": "^3.4.9",
     "vuex": "^3.5.1"
@@ -20,7 +22,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
-    "@vue/cli-service": "~4.5.0",
+    "@vue/cli-service": "^4.5.13",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
